@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("https://i.ytimg.com/vi/pPUnKNh7hhQ/maxresdefault.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    font-family: Arial;
+    color: #fff;
+    font-size: 30px;
+  }
+  
+  #get-image {
+    margin: 10% 50% 0 40%;
+    width: 10%;
+  }
+  
+  .container {
+    text-align: center;
+    width: 25%;
+    padding: 0 5%;
+    position: absolute;
+    margin-top: 10%;
+  }
+  
+  button, a {
+    color: #000;
+    outline: none;
+    border: none;
+    background-color: white;
+    font-family: Arial;
+    font-size: 12px;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  button:last-of-type {
+    margin-top: 5px;
+  }
+  
+  #poke-img {
+    height: 300px;
+    width: auto;
+  }
+  
+  p {
+    height: 50%;
+  }
